@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="HelloJSF-2:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloJSF_2_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HelloJSF-2/ejb/EJB" />
+      <element id="module-output" name="HelloJSF-2" />
+    </root>
+  </artifact>
+</component>
